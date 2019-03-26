@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5c9aac1772f44b6b46fed3db"},"name":"Web Frameworks","credits":10,"weeks":15,"lecturer_id":{"$oid":"5c9aa332a5af7e687bcd9014"},"__v":0}
+{"_id":{"$oid":"5c9aac1772f44b6b46fed3dc"},"name":"Unit Testing","credits":5,"weeks":8,"lecturer_id":{"$oid":"5c9aa332a5af7e687bcd9014"},"__v":0}
+{"_id":{"$oid":"5c9aaf7fb6eeca6c6d59ed37"},"name":"Intro to CSS","credits":10,"weeks":15,"lecturer_id":{"$oid":"5c9aae8e8afc146c1f617460"},"__v":0}
+{"_id":{"$oid":"5c9aaf7fb6eeca6c6d59ed38"},"name":"Flexbox and CSS grid","credits":5,"weeks":8,"lecturer_id":{"$oid":"5c9aae8e8afc146c1f617460"},"__v":0}
+{"_id":{"$oid":"5c9aaf7fb6eeca6c6d59ed39"},"name":"CSS preprocessors","credits":5,"weeks":8,"lecturer_id":{"$oid":"5c9aae8e8afc146c1f617460"},"__v":0}
+{"_id":{"$oid":"5c9aafc5e43e1b6c8f17e723"},"name":"Maths 101","credits":10,"weeks":15,"lecturer_id":{"$oid":"5c9aae8e8afc146c1f61745f"},"__v":0}
+{"_id":{"$oid":"5c9aafc5e43e1b6c8f17e724"},"name":"Maths 202","credits":10,"weeks":15,"lecturer_id":{"$oid":"5c9aae8e8afc146c1f61745f"},"__v":0}
+{"_id":{"$oid":"5c9aafc5e43e1b6c8f17e725"},"name":"Stats all folks","credits":10,"weeks":15,"lecturer_id":{"$oid":"5c9aae8e8afc146c1f61745f"},"__v":0}
