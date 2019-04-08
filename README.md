@@ -15,13 +15,7 @@ It is based on the [Simple React Full Stack Boilerplate project](https://github.
     - [Development mode](#development-mode)
     - [Production mode](#production-mode)
   - [Quick Start](#quick-start)
-  - [MongoDB](#mongodb)
-    - [Local Database](#local-database)
-    - [Cloud Database](#cloud-database)
-    - [Working with your DB](#working-with-your-db)
-  - [Express](#express)
-  - [React](#react)
-  - [Heroku](#deploying-to-heroku)
+
 
 
 ## Introduction
