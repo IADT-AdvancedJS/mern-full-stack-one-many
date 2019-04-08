@@ -11,6 +11,8 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
+// serve files from the dist directory
+server.use(express.static('dist'));
 
 const mongo_uri = 'mongodb://localhost/lecturer-modules';
 mongoose.connect(mongo_uri, { useNewUrlParser: true }, function(err) {
@@ -19,13 +21,6 @@ mongoose.connect(mongo_uri, { useNewUrlParser: true }, function(err) {
   } else {
     console.log(`Successfully connected to ${mongo_uri}`);
   }
-});
-
-app.use(express.static(path.join(__dirname, 'public')));
-
-
-app.get('/', function(req, res) {
-  res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 
